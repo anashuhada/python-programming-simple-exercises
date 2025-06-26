@@ -1,4 +1,3 @@
-# approach 1
 # reverse a string
 # check if reversed and original are same or not
 
